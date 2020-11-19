@@ -1,5 +1,5 @@
 ## Folder structure
-
+```
 ├── app
 ├── build // gka output
 ├── dist // further optimized sprites
@@ -10,7 +10,7 @@
 ├── readme.md
 ├── webpack.config.js
 └── yarn.lock
-
+```
 
 ## only build sprites(Not recommend)
 
