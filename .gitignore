@@ -1,0 +1,7 @@
+build
+dist
+gka*
+node_modules
+images*
+.DS_Store
+yarn.lock
